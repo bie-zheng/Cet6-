@@ -1,4 +1,4 @@
-两个新建文件分别是使用六级词汇生成的
+两个CET6_en_cn_sentence.txt文件分别是使用CET6_word_disorder.txt生成的
 
 英语例句|汉语翻译内容
 
