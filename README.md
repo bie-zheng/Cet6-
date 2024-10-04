@@ -15,3 +15,4 @@ The kids are try to compact the sand into the mold.|孩子们正在设法把这�
 You should sign your name on the right side of the compact.|你应该在合约的右边签上你的名字。
 The pine trees defy severe cold.|松树不畏严寒。
 ```
+数据来自tatoeba.org
