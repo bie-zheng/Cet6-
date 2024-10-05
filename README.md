@@ -1,7 +1,7 @@
-两个CET6_en_cn_sentence.txt文件分别是使用CET6_word_disorder.txt生成的
-
-英语例句|汉语翻译内容
-
+|文件名|内容|
+|---|---|
+|CET6_word_disorder.txt|CET6单词|
+|CET6_en_cn_sentence.txt|英汉对译内容|
 ```
 She is a consistent girl in her feeling.|在感情方面她是个始终如一的女孩。
 They are electrifying the battery.|他们正给电池充电。
@@ -15,4 +15,4 @@ The kids are try to compact the sand into the mold.|孩子们正在设法把这�
 You should sign your name on the right side of the compact.|你应该在合约的右边签上你的名字。
 The pine trees defy severe cold.|松树不畏严寒。
 ```
-数据来自tatoeba.org
+[数据来源](https://tatoeba.org/zh-cn/downloads)
